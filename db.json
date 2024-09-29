@@ -1,8 +1,8 @@
 {
   "address": [
     {
-      "post": "https://app.testmigiram.ir//api_post.php",
-      "get": "https://app.testmigiram.ir/api_get.php",
+      "post": "https://app.testmigiram.ir//post.php",
+      "get": "https://app.testmigiram.ir/get.php",
       "server": "https://app.testmigiram.ir/server_none.png",
       "user": "https://app.testmigiram.ir/user_ban.png"
     }
