@@ -5,6 +5,8 @@
       "get": "https://app.testmigiram.ir/get.php",
       "server": "https://app.testmigiram.ir/server_none.png",
       "user": "https://app.testmigiram.ir/user_ban.png"
+      "2post": "https://app.testmigiram.ir//2post.php",
+      "2get": "https://app.testmigiram.ir/2get.php",
     }
   ]
 }
